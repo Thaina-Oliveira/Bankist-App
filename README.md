@@ -22,6 +22,9 @@ Bankist is a simple web-based banking application that allows users to manage th
 - **🎨 CSS:** For styling the application.
 - **💻 JavaScript:** For adding interactivity and functionality.
 
+## 🔗Preview
+https://github.com/Thaina-Oliveira/Simon-Game/assets/138075601/66e345da-a9cb-416e-baea-b00c41b73772
+
 ## 🔍 Methods and Techniques
 
 - **JavaScript Array Methods:**
